@@ -1,4 +1,4 @@
 this is a test
 this is a new information
 this is three
-there is a conflicts11
+there is a conflicts
